@@ -1,0 +1,54 @@
+<VirtualDJ_Database Version="2025">
+ <Song FilePath="C:\Users\anddc\Music\AnuelAA_Ascensor .mp3" FileSize="3172374">
+  <Tags Author="Anuel AA" Title="Anuel AA - Ascensor (Visualizer Oficial) | LLNM2" Album="Anuel AA" Flag="1" />
+  <Infos SongLength="192.040249" LastModified="1750124787" FirstSeen="1750025545" FirstPlay="1750124787" LastPlay="1750124787" PlayCount="1" Bitrate="132" Cover="1" />
+  <Scan Version="801" Bpm="0.727279" AltBpm="0.545465" Volume="1.420932" Key="Bm" Flag="32768" />
+  <Poi Pos="2.989320" Type="beatgrid" />
+  <Poi Pos="0.081270" Type="automix" Point="realStart" />
+  <Poi Pos="192.031927" Type="automix" Point="realEnd" />
+  <Poi Pos="5.20" Type="automix" Point="fadeStart" />
+  <Poi Pos="186.250" Type="automix" Point="fadeEnd" />
+  <Poi Pos="12.808707" Type="automix" Point="cutStart" />
+  <Poi Pos="186.259592" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\anddc\AppData\Local\VirtualDJ\Sampler\MY BANK.bank\Eminem, Post.vdjsample" Flag="131072">
+  <Tags Author=" " Title="Eminem, Post" Remix="Vocal" Flag="1" />
+  <Infos SongLength="1.889478" LastModified="1750026378" FirstSeen="1750025580" />
+  <Scan Version="801" Bpm="0.472370" Key="A#m" Flag="1" />
+ </Song>
+ <Song FilePath="C:\Users\anddc\AppData\Local\VirtualDJ\Sampler\MY BANK.bank\Eminem, Post (1).vdjsample" Flag="131072">
+  <Tags Author=" " Title="Eminem, Post (1)" Remix="Vocal" Flag="1" />
+  <Infos SongLength="1.889478" LastModified="1750026378" FirstSeen="1750025625" />
+  <Scan Version="801" Bpm="0.472370" Key="A#m" Flag="1" />
+ </Song>
+ <Song FilePath="C:\Users\anddc\Music\post malone_eminem -falling.mp3" FileSize="4183557">
+  <Tags Author="Kamikaze Music" Title="Eminem, Post Malone - Falling" Album="Kamikaze Music" Flag="1" />
+  <Infos SongLength="252.304739" LastModified="1750026409" FirstSeen="1750025545" FirstPlay="1750025606" LastPlay="1750026403" PlayCount="2" Bitrate="133" Cover="1" />
+  <Scan Version="801" Bpm="0.236185" AltBpm="0.708571" Volume="1.021365" Key="A#m" Flag="32768" />
+  <Poi Pos="8.289161" Type="beatgrid" />
+  <Poi Pos="2.278458" Type="automix" Point="realStart" />
+  <Poi Pos="252.106304" Type="automix" Point="realEnd" />
+  <Poi Pos="6.80" Type="automix" Point="fadeStart" />
+  <Poi Pos="249.50" Type="automix" Point="fadeEnd" />
+  <Poi Pos="42.298776" Type="automix" Point="cutStart" />
+  <Poi Pos="232.034104" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="83.205079" Type="remix" />
+  <Poi Name="End Break 1" Pos="115.527256" Type="remix" />
+  <Poi Name="Break 2" Pos="127.832381" Type="remix" />
+  <Poi Name="End Break 2" Pos="144.327256" Type="remix" />
+  <Poi Name="Break 3" Pos="201.023129" Type="remix" />
+  <Poi Name="End Break 3" Pos="219.284172" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\anddc\Music\[FREE] 50 Cent_ Scott Storch Type Beat - _Drop_ (Prod. Chris Falcone) _ Tyga Type Beat 2020(MP3_128K).mp3" FileSize="3209366">
+  <Tags Author="Falcone Music" Title="[FREE] 50 Cent, Scott Storch Type Beat - &quot;Drop&quot; (Prod. Chris Falcone) | Tyga Type Beat 2020" Album="Falcone Music" Remix="MP3 128K" Flag="1" />
+  <Infos SongLength="192.771678" LastModified="1750124550" FirstSeen="1750025545" FirstPlay="1750124550" LastPlay="1750124550" PlayCount="1" Bitrate="133" Cover="1" />
+  <Scan Version="801" Bpm="0.631565" AltBpm="0.947370" Volume="1.014740" Key="D" Flag="32768" />
+  <Poi Pos="0.132154" Type="beatgrid" />
+  <Poi Pos="0.129161" Type="automix" Point="realStart" />
+  <Poi Pos="190.718549" Type="automix" Point="realEnd" />
+  <Poi Pos="0.129161" Type="automix" Point="fadeStart" />
+  <Poi Pos="185.20" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.129161" Type="automix" Point="cutStart" />
+  <Poi Pos="183.126349" Type="automix" Point="cutEnd" />
+ </Song>
+</VirtualDJ_Database>

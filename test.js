@@ -1,7 +1,7 @@
 const fs = require('fs');
 const xml2js = require('xml2js');
 
-const xmlPath = 'C:/Users/anddc/Documents/VirtualDJ/database.xml'; // Asegúrate de que exista
+const xmlPath = 'C:/Users/anddc/OneDrive/Documentos/VirtualDJ/database.xml';
 
 fs.readFile(xmlPath, (err, data) => {
   if (err) {
