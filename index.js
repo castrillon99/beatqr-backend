@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json()); // ← debe estar aquí, no dentro de otros bloques
 
 // 📂 Ruta al archivo XML
-const xmlPath = 'C:/Users/anddc/OneDrive/Documentos/VirtualDJ/database.xml';
+const xmlPath = './database.xml';
 
 // 📥 Obtener canciones
 app.get('/api/canciones', (req, res) => {
